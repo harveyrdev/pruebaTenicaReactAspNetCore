@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "nombreEvento": "Maratón Ciudad de México",
+      "fechaEvento": "2024-08-25",
+      "lugarEvento": "Ciudad de México, México",
+      "descripcionEvento": "Un maratón anual que recorre las principales avenidas de la Ciudad de México.",
+      "precio": 500
+    },
+    {
+      "id": 2,
+      "nombreEvento": "Final de la Liga de Campeones de la UEFA",
+      "fechaEvento": "2024-06-01",
+      "lugarEvento": "Estadio Olímpico, Roma, Italia",
+      "descripcionEvento": "El partido final de la temporada 2023-2024 de la Liga de Campeones de la UEFA.",
+      "precio": 1500
+    },
+    {
+      "id": 3,
+      "nombreEvento": "Super Bowl LVIII",
+      "fechaEvento": "2024-02-11",
+      "lugarEvento": "Allegiant Stadium, Las Vegas, EE.UU.",
+      "descripcionEvento": "El partido final del campeonato de la NFL para decidir al campeón de la temporada 2023.",
+      "precio": 2500
+    },
+    {
+      "id": 4,
+      "nombreEvento": "Wimbledon Final",
+      "fechaEvento": "2024-07-14",
+      "lugarEvento": "All England Club, Londres, Reino Unido",
+      "descripcionEvento": "La final del torneo de tenis más antiguo y prestigioso del mundo.",
+      "precio": 1000
+    },
+    {
+      "id": 5,
+      "nombreEvento": "Gran Premio de Mónaco de Fórmula 1",
+      "fechaEvento": "2024-05-26",
+      "lugarEvento": "Circuito de Mónaco, Montecarlo",
+      "descripcionEvento": "Una de las carreras más emblemáticas y prestigiosas de la temporada de Fórmula 1.",
+      "precio": 2000
+    }
+  ]
+  
